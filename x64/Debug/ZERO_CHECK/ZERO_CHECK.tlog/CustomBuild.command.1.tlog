@@ -1,0 +1,10 @@
+^C:\USERS\STARODUBBB\DESKTOP\CG_LAB_1_MARKUS\CMAKEFILES\78437E2649760678D1108B038F2BFFEC\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\JetBrains\apps\CLion\ch-0\223.7571.171\bin\cmake\win\bin\cmake.exe" -SC:/Users/starodubbb/Desktop/CG_LAB_1_Markus -BC:/Users/starodubbb/Desktop/CG_LAB_1_Markus --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/starodubbb/Desktop/CG_LAB_1_Markus/Graphics.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/projects/C++VisualStudioProjects/CG_LAB_1/CMakeFiles/Graphics.dir
+D:/projects/C++VisualStudioProjects/CG_LAB_1/CMakeFiles/ALL_BUILD.dir
+D:/projects/C++VisualStudioProjects/CG_LAB_1/CMakeFiles/ZERO_CHECK.dir

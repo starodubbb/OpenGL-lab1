@@ -1,0 +1,3 @@
+C:/Users/starodubbb/Desktop/CG_LAB_1_Markus/cmake-build-debug/CMakeFiles/Graphics.dir
+C:/Users/starodubbb/Desktop/CG_LAB_1_Markus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/starodubbb/Desktop/CG_LAB_1_Markus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
